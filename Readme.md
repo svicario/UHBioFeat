@@ -1,3 +1,3 @@
 # Benvenuti al sito di UHBiofeat
 
-Qui sotto dettaglieremo con figure e schemi gli scopi del progetti e mano a mano alcuni dei risultati
+Il progetto di Monitoraggio delle Isole di Calore Urbano (Urban Heat Island) valutando il contributo del verde urbano tenendo conto della connetività con la biodiversità extra urbana 
